@@ -7,7 +7,7 @@ I am a software developer with a strong focus on building production-ready mobil
 ### 🚀 What I Do
 *   **Mobile Development:** Crafting native Android applications utilizing Kotlin and Java with real-time backend integrations.
 *   **Full-Stack Web:** Developing responsive, dynamic web solutions using the MERN stack.
-*   **AI Integration:** Enhancing application capabilities by embedding AI models like the Gemini API into practical tools.
+*   **AI Integration:** Enhancing application capabilities by embedding AI models like the Gemini API into practical tools and various API integrations. 
 
 ---
 
@@ -36,10 +36,10 @@ I am a software developer with a strong focus on building production-ready mobil
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Bondbook](link-to-repo)** | A comprehensive Android application engineered for clan management, featuring real-time data handling and user authentication. | Java, Android Studio, Firebase |
-| **[AI Ride Assistant](link-to-repo)** | A smart bike assistance mobile application designed to provide riders with intelligent insights and features on the go. | Kotlin, Android, AI APIs |
-| **[Pest-Predictor Agent](link-to-repo)** | An agricultural technology tool that leverages artificial intelligence to predict and analyze pest threats for better crop management. | Streamlit, Gemini API, Python |
-| **[Professional Portfolio](link-to-repo)** | A fully deployed, responsive personal resume website showcasing my freelance projects and technical capabilities. | MongoDB, Express, React, Node.js |
+| **[E-Commerce Platform](https://github.com/Me-Amey/laundry-mart.git)** | e-commerce Sample web page for only Laundry service.
+| **[my Resume Webpage](https://github.com/Me-Amey/Resume-Webpage.git)** | A fully deployed, responsive personal resume website showcasing my freelance projects and technical capabilities. | MongoDB, Express, React, Node.js |
+| **[Git Brain](https://github.com/Me-Amey/Git-brain.git)** | A web application that allows users to visualize their GitHub repositories and contributions in an interactive manner. | React, Node.js, GitHub API |
+| **[Quickpoll](https://github.com/Me-Amey/Quickpoll.git)** | A real-time polling application that enables users to create and participate in polls, with instant result updates. | React, Firebase |
 
 *(Note: Click on the project names to view the source code, installation guides, and visual demos!)*
 
@@ -48,8 +48,7 @@ I am a software developer with a strong focus on building production-ready mobil
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Me-Amey&show_icons=true&theme=tokyonight&hide_border=true" alt="Amey's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Amey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Amey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -57,13 +56,13 @@ I am a software developer with a strong focus on building production-ready mobil
 ### 📫 Connect With Me
 
 <div align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="padkanthwaramey@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/amey-padkanthwar-4a409628a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://me-amey.github.io/Resume-Webpage/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
