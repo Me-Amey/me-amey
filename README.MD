@@ -36,7 +36,7 @@ I am a software developer with a strong focus on building production-ready mobil
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[E-Commerce Platform](https://github.com/Me-Amey/laundry-mart.git)** | e-commerce Sample web page for only Laundry service.
+| **[E-Commerce Platform](https://github.com/Me-Amey/laundry-mart.git)** | e-commerce Sample web page for only Laundry service. | HTML, CSS, JavaScript |
 | **[my Resume Webpage](https://github.com/Me-Amey/Resume-Webpage.git)** | A fully deployed, responsive personal resume website showcasing my freelance projects and technical capabilities. | MongoDB, Express, React, Node.js |
 | **[Git Brain](https://github.com/Me-Amey/Git-brain.git)** | A web application that allows users to visualize their GitHub repositories and contributions in an interactive manner. | React, Node.js, GitHub API |
 | **[Quickpoll](https://github.com/Me-Amey/Quickpoll.git)** | A real-time polling application that enables users to create and participate in polls, with instant result updates. | React, Firebase |
