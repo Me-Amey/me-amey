@@ -51,15 +51,7 @@ I am a software developer with a strong focus on building production-ready mobil
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Amey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
-### 🎮 GitHub Contribution Snake
 
-Open `snake.html` locally to play a small Snake game inspired by GitHub contribution blocks.
-The snake eats contribution-style blocks as it grows, giving your profile a playful animated feel.
-
-- Arrow keys to move
-- Press `R` to restart
-
-[Play the snake game locally](snake.html)
 
 ---
 
